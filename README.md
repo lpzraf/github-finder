@@ -2,6 +2,8 @@
 
 This project was made by [Rafael Lopez](https://rafaelopez.com/) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Live demo--> [https://github-finder-application.netlify.com/](https://github-finder-application.netlify.com/)
+
 ## Available Scripts
 
 In the project directory, you can run:
