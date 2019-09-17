@@ -1,6 +1,6 @@
 ## Github Finder Web App
 
-This project made by [Rafael Lopez](https://rafaelopez.com/) was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made by [Rafael Lopez](https://rafaelopez.com/) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
