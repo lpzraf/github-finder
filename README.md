@@ -1,4 +1,4 @@
-## Github Finder Web App
+## Github Finder Web App Built With React.js
 
 This project was made by [Rafael Lopez](https://rafaelopez.com/) and bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
